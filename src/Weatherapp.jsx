@@ -123,7 +123,7 @@ async function weatherDetails() {
         </div>
       </div>
       <div className="wind_speed w-full text-center">
-        <p>Designed by <a href="tamilmuhilan.netlify.app">@developertamil</a></p>
+        <p>Designed by <a href="https://tamilmuhilan.netlify.app">@developertamil</a></p>
       </div>
       <div className="loading text-center">
         {loading && <p>please wait...</p>}
